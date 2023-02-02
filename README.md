@@ -1,16 +1,13 @@
-### Hi there 👋
+jonmarrero/README.md
 
-<!--
-**jonmarrero/jonmarrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello Engineers 😎
 
-Here are some ideas to get you started:
+Check out my site here --> (insert link for portfolio site) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My hobbies include:
+
+  - 🏂 Snowboarding 
+  - 🏈 Competitive Sports
+  - 🏋🏻‍♂️ Bodybuilding 
+  - 🎮 Gaming 
+  - 🎧 Music
