@@ -9,3 +9,4 @@ My hobbies include:
   - 🏋🏻‍♂️ Bodybuilding 
   - 🎮 Gaming 
   - 🎧 Music
+  - 📖 Reading  
