@@ -4,9 +4,10 @@ Check out my site here --> https://jonathanmarrero.website/
 
 My hobbies include:
 
-  - 🏂 Snowboarding 
+  - 🏂 Snowboarding
+  - 📲 Building Mobile Applications
   - 🏈 Competitive Sports
   - 🏋🏻‍♂️ Bodybuilding 
   - 🎮 Gaming 
   - 🎧 Music
-  - 📖 Reading  
+  - 📖 Reading
